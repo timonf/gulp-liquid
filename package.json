@@ -20,7 +20,7 @@
   "dependencies": {
     "through2": "*",
     "gulp-util": "~3.0.1",
-    "liquid-node": "sirlantis/liquid-node#master"
+    "liquid-node": "sirlantis/liquid-node"
   },
   "devDependencies": {
     "mocha": "*"
