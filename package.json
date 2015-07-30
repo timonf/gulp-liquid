@@ -20,7 +20,7 @@
   "dependencies": {
     "through2": "*",
     "gulp-util": "~3.0.1",
-    "liquid-node": "~2.4.0"
+    "liquid-node": "~1.1.0"
   },
   "devDependencies": {
     "mocha": "*"
